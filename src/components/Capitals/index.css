@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.bg-cont {
+  background-color: #93c5fd;
+  height: 100vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg-card {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 15px;
+}
+.display-cont {
+  display: flex;
+  flex-direction: row;
+}
+.capitals {
+  height: 23px;
+  width: 130px;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+.country-capital {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.capital-desc {
+  font-family: 'Roboto';
+  font-size: 18px;
+  padding-top: 10px;
+}
+.country-head {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
